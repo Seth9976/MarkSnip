@@ -1,0 +1,20 @@
+web-ext-artifacts
+dist
+xcode/MarkDownload - Markdown Web Clipper/MarkDownload - Markdown Web Clipper.xcodeproj/project.xcworkspace
+xcode/MarkDownload - Markdown Web Clipper/MarkDownload - Markdown Web Clipper.xcodeproj/xcuserdata
+.DS_Store
+node_modules
+things.md
+.claude/
+src/test-artifacts/
+src/test-results/*
+!src/test-results/.last-run.json
+src/test-results/live-public/
+video/
+.gocache/
+native/*.exe
+native/*.dll
+native/*.zip
+native/.tmp-builds
+tmp/
+capture-store-screenshots.js
